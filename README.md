@@ -44,7 +44,7 @@ I mix **creativity + engineering** to craft software that is:
 ## 🏆 Achievements
 - 🥇 **YOLO Vision Model Implementation**
 - 🔧 Built multiple automation tools  
-- 🚀 Created the **BuildWithAK** Tech Ecosystem  
+- 🚀 Created the **AK-DEVZONE** Tech Ecosystem  
 - 📘 Developed several production-ready projects  
 - 🎨 Designed this premium GitHub branding kit  
 
