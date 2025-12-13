@@ -1,10 +1,11 @@
 
 
-<h1 align="center">🚀 Avinash Kamble</h1>
+<h1 align="center"> Avinash Kamble</h1>
 <h3 align="center">💻 Full-Stack Developer | 🧠 Tech Entrepreneur | 🚀 AI & Automation Enthusiast</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ak-devzone&label=👀 Profile Views&color=00C2FF&style=flat-square" />
+<!--<img src="https://github.com/ak-devzone/ak-devzone/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.jpg"></img>-->
+  
 </p>
 
 ---
